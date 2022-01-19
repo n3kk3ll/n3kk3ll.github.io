@@ -10,6 +10,7 @@ Here you can see my portfolio, now it is available only in Russian. I am studyin
     * Responsive design
     * Any kinds of work with pseudo-classes and pseudo-elements
     * CSS Transition
+    * @keyframes animation
   * JavaScript (inside this project could be nested projects that use jQuery)
   * Gulp
   * Git
